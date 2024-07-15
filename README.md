@@ -5,11 +5,11 @@
 ## Используемые технологии и инструменты
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
+  <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.icons8.com/color/48/000000/sqlite.png" alt="SQLite" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Aiogram" style="vertical-align:top; margin:4px"/>
 </p>
 
 ## Мои проекты
